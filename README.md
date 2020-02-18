@@ -1,0 +1,2 @@
+# scualos
+Para rodadas
